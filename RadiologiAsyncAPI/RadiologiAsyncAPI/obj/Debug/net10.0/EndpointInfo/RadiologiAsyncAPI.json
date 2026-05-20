@@ -1,0 +1,81 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "RadiologiAsyncAPI | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7140"
+    },
+    {
+      "url": "http://localhost:5241"
+    }
+  ],
+  "paths": {
+    "/api/Radiologi/upload-xray": {
+      "post": {
+        "tags": [
+          "Radiologi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PermintaanXRay"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PermintaanXRay"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PermintaanXRay"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Radiologi/antrean": {
+      "get": {
+        "tags": [
+          "Radiologi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PermintaanXRay": {
+        "type": "object",
+        "properties": {
+          "pasienId": {
+            "type": "string"
+          },
+          "base64Image": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Radiologi"
+    }
+  ]
+}

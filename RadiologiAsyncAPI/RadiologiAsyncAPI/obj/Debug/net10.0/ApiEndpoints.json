@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "RadiologiAsyncAPI.Controllers.RadiologiController",
+    "Method": "AmbilSemuaAntrean",
+    "RelativePath": "api/Radiologi/antrean",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RadiologiAsyncAPI.Controllers.RadiologiController",
+    "Method": "TerimaXRay",
+    "RelativePath": "api/Radiologi/upload-xray",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RadiologiAsyncAPI.Models.PermintaanXRay",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

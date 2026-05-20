@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfArxJAtlcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CHIKA\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512",
+    "C:\\Users\\CHIKA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\CHIKA\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

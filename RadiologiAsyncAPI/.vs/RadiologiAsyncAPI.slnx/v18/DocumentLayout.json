@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\services\\medgemmaworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\services\\medgemmaworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\radiologiasyncapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\radiologiasyncapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\pages\\dashboardradiologi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\pages\\dashboardradiologi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\models\\dataradiologi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\models\\dataradiologi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\services\\antreanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\services\\antreanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|c:\\users\\chika\\source\\repos\\radiologiasyncapi\\radiologiasyncapi\\controllers\\radiologicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB70F71-598C-ABF6-1EE7-9DE401C1D8B9}|RadiologiAsyncAPI\\RadiologiAsyncAPI.csproj|solutionrelative:radiologiasyncapi\\controllers\\radiologicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Routes.razor",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Routes.razor",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Routes.razor",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T04:18:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T04:43:21.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadiologiAsyncAPI.http",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\RadiologiAsyncAPI.http",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\RadiologiAsyncAPI.http",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\RadiologiAsyncAPI.http",
+              "RelativeToolTip": "RadiologiAsyncAPI\\RadiologiAsyncAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T03:24:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\App.razor",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\App.razor",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\App.razor",
+              "RelativeToolTip": "RadiologiAsyncAPI\\App.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T04:16:44.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedGemmaWorker.cs",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Services\\MedGemmaWorker.cs",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Services\\MedGemmaWorker.cs",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Services\\MedGemmaWorker.cs",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Services\\MedGemmaWorker.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:11:58.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardRadiologi.razor",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Pages\\DashboardRadiologi.razor",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Pages\\DashboardRadiologi.razor",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Pages\\DashboardRadiologi.razor",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Pages\\DashboardRadiologi.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T04:19:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Program.cs",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:15:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\_Imports.razor",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\_Imports.razor",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\_Imports.razor",
+              "RelativeToolTip": "RadiologiAsyncAPI\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T06:11:24.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AntreanService.cs",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Services\\AntreanService.cs",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Services\\AntreanService.cs",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Services\\AntreanService.cs",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Services\\AntreanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:10:37.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataRadiologi.cs",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Models\\DataRadiologi.cs",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Models\\DataRadiologi.cs",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Models\\DataRadiologi.cs",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Models\\DataRadiologi.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:08:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RadiologiController.cs",
+              "DocumentMoniker": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Controllers\\RadiologiController.cs",
+              "RelativeDocumentMoniker": "RadiologiAsyncAPI\\Controllers\\RadiologiController.cs",
+              "ToolTip": "C:\\Users\\CHIKA\\source\\repos\\RadiologiAsyncAPI\\RadiologiAsyncAPI\\Controllers\\RadiologiController.cs",
+              "RelativeToolTip": "RadiologiAsyncAPI\\Controllers\\RadiologiController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T03:15:02.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
